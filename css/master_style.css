@@ -1,0 +1,157 @@
+.error {
+	color: #ff0000;
+}
+
+body {
+	font-family: Verdana;
+	font-size: 10pt;
+	color: #333;		
+}
+
+#nav {
+	margin: 2px;
+	padding: 5px;
+	clear: both;
+}
+
+#bread {
+	margin-top: 10px;
+	margin-left: 8px;
+	float: left;
+	font-size: .85em;
+		
+}
+
+#container {
+	margin: 2px;
+	padding: 8px;
+	border: 1px solid #ccc;
+	height: 600px;
+}
+
+#logo {
+	float: left;
+	background-image: url('http://www.pokerstars.com/images/logo.gif');
+}
+
+#quick {
+	margin-top: 20px;
+	float: right;
+}
+
+.clear {
+	clear: both;
+}
+
+.clearpad10 {
+	clear: both;
+	padding: 10px;
+}
+
+h1 {
+	font-size: 16pt;
+	color: #111;
+}
+
+h2 {
+	font-size: 14pt;
+	color: #333;
+}
+
+h3 {
+	font-size: 12pt;
+	color: #999;
+}
+
+button {
+  color: #333;
+  border: 1px solid #333;
+  font-weight: bold;
+}
+
+.heading {
+	background: #333;
+	color: #fff;
+	font-weight: bold;
+	font-family: Tahoma;
+}
+
+.mainHeader {
+	background: #333;
+	color: #fff;
+	font-weight: bold;
+	font-family: Tahoma;
+	padding-left: 2px;
+}
+
+.domainHeading {
+	width: 100px;
+	font-weight: bold;
+	background: #ccc;
+	color: #333;
+	font-weight: bold;
+	font-family: Tahoma;
+}
+
+.headingEdit {
+	background: #333;
+	color: #fff;
+	font-weight: bold;
+	font-family: Tahoma;
+	text-align: center;
+}
+
+td {
+	padding-left: 5px;
+}
+
+.odd {
+	background: #ccc;
+	padding-left: 2px;
+}
+
+.even {
+	background: #eee;
+	padding-left: 2px;
+}
+
+.oddPad {
+	background: #ccc;
+	padding-left: 2px;
+	padding-bottom: 5px;
+	padding-top: 5px;
+}
+
+.evenPad {
+	background: #eee;
+	padding-left: 2px;
+	padding-bottom: 5px;
+	padding-top: 5px;
+}
+
+.heading {
+	width: 200px;
+	font-weight: bold;
+}
+
+
+
+.information {
+	float: left;	
+	padding-left: 10px;
+}
+
+.searchResult {
+	display: block;
+	width: 300px;
+	border: 1px solid #ccc;	
+	background: #eee;
+}
+
+#different_url {
+	float: right;	
+}
+
+.projInfo {
+	font-weight: bold;	
+}
