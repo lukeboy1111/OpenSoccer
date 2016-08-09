@@ -1,0 +1,5 @@
+database = jdbc:mysql://localhost:3306/ftbl?user=ftbluser&password=footie123
+probmodel = data/match_report.data
+matchreport = data/match_report.txt
+playerstats = data/player_stats.txt
+statssummary = data/stats_summary.txt

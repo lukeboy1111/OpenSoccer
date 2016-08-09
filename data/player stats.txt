@@ -1,0 +1,440 @@
+Lopez
+Gk Long Pass: 0/0
+Long Pass: 1/1
+Forward Pass: 2/2
+Flank Pass: 2/2
+Ball Control: 0/0
+Dribbling: 0/4
+Long Flank Pass: 0/0
+Pass: 1/2
+Area Pass: 0/0
+Run Ball: 0/0
+Low Cross: 0/0
+Cross: 3/4
+Shots: 0/0
+Headings: 0/0
+Individual challenges: 0
+Interceptions: 0
+Saves: 0
+Concedings: 0
+
+Tavarelli
+Gk Long Pass: 0/0
+Long Pass: 0/1
+Forward Pass: 2/3
+Flank Pass: 2/4
+Ball Control: 1/1
+Dribbling: 0/0
+Long Flank Pass: 0/0
+Pass: 0/0
+Area Pass: 3/5
+Run Ball: 0/0
+Low Cross: 0/0
+Cross: 2/2
+Shots: 0/0
+Headings: 0/0
+Individual challenges: 1
+Interceptions: 2
+Saves: 0
+Concedings: 0
+
+Enciso
+Gk Long Pass: 0/0
+Long Pass: 0/0
+Forward Pass: 0/0
+Flank Pass: 1/1
+Ball Control: 0/0
+Dribbling: 0/0
+Long Flank Pass: 0/0
+Pass: 0/0
+Area Pass: 0/0
+Run Ball: 0/0
+Low Cross: 0/0
+Cross: 0/0
+Shots: 1/3
+Headings: 0/0
+Individual challenges: 0
+Interceptions: 0
+Saves: 0
+Concedings: 0
+
+Morel Rodriguez
+Gk Long Pass: 0/0
+Long Pass: 1/3
+Forward Pass: 2/4
+Flank Pass: 6/7
+Ball Control: 0/0
+Dribbling: 0/3
+Long Flank Pass: 0/0
+Pass: 0/0
+Area Pass: 0/1
+Run Ball: 2/3
+Low Cross: 0/0
+Cross: 0/0
+Shots: 0/1
+Headings: 0/0
+Individual challenges: 0
+Interceptions: 0
+Saves: 0
+Concedings: 0
+
+Lugo
+Gk Long Pass: 0/0
+Long Pass: 1/1
+Forward Pass: 1/3
+Flank Pass: 3/3
+Ball Control: 0/0
+Dribbling: 0/0
+Long Flank Pass: 0/0
+Pass: 0/1
+Area Pass: 0/0
+Run Ball: 1/2
+Low Cross: 0/0
+Cross: 0/0
+Shots: 0/0
+Headings: 0/0
+Individual challenges: 1
+Interceptions: 1
+Saves: 0
+Concedings: 0
+
+Sanabria
+Gk Long Pass: 0/0
+Long Pass: 1/2
+Forward Pass: 1/1
+Flank Pass: 1/2
+Ball Control: 0/0
+Dribbling: 0/0
+Long Flank Pass: 0/0
+Pass: 0/1
+Area Pass: 0/0
+Run Ball: 2/3
+Low Cross: 0/0
+Cross: 0/0
+Shots: 0/0
+Headings: 0/0
+Individual challenges: 0
+Interceptions: 0
+Saves: 0
+Concedings: 0
+
+Melgarejo
+Gk Long Pass: 0/0
+Long Pass: 0/0
+Forward Pass: 0/0
+Flank Pass: 1/1
+Ball Control: 1/1
+Dribbling: 0/0
+Long Flank Pass: 0/0
+Pass: 0/1
+Area Pass: 0/1
+Run Ball: 0/0
+Low Cross: 0/0
+Cross: 0/0
+Shots: 0/3
+Headings: 0/0
+Individual challenges: 0
+Interceptions: 0
+Saves: 0
+Concedings: 0
+
+Campos
+Gk Long Pass: 1/5
+Long Pass: 0/0
+Forward Pass: 0/0
+Flank Pass: 5/6
+Ball Control: 0/0
+Dribbling: 0/0
+Long Flank Pass: 0/0
+Pass: 0/0
+Area Pass: 0/0
+Run Ball: 0/0
+Low Cross: 0/0
+Cross: 0/0
+Shots: 0/0
+Headings: 0/0
+Individual challenges: 0
+Interceptions: 2
+Saves: 4
+Concedings: 1
+
+Sarabia
+Gk Long Pass: 0/0
+Long Pass: 1/4
+Forward Pass: 4/5
+Flank Pass: 1/1
+Ball Control: 0/0
+Dribbling: 3/7
+Long Flank Pass: 2/2
+Pass: 1/1
+Area Pass: 0/0
+Run Ball: 2/4
+Low Cross: 0/0
+Cross: 0/0
+Shots: 0/1
+Headings: 0/0
+Individual challenges: 2
+Interceptions: 1
+Saves: 0
+Concedings: 0
+
+Benitez
+Gk Long Pass: 0/0
+Long Pass: 0/0
+Forward Pass: 0/0
+Flank Pass: 0/0
+Ball Control: 2/2
+Dribbling: 2/2
+Long Flank Pass: 0/0
+Pass: 0/0
+Area Pass: 0/0
+Run Ball: 0/0
+Low Cross: 2/4
+Cross: 7/7
+Shots: 0/0
+Headings: 0/0
+Individual challenges: 0
+Interceptions: 0
+Saves: 0
+Concedings: 0
+
+Santa Cruz
+Gk Long Pass: 0/0
+Long Pass: 0/0
+Forward Pass: 0/0
+Flank Pass: 0/0
+Ball Control: 0/0
+Dribbling: 1/1
+Long Flank Pass: 0/0
+Pass: 0/0
+Area Pass: 0/0
+Run Ball: 0/0
+Low Cross: 0/0
+Cross: 5/6
+Shots: 0/0
+Headings: 0/0
+Individual challenges: 0
+Interceptions: 0
+Saves: 0
+Concedings: 0
+
+Kimura
+Gk Long Pass: 0/0
+Long Pass: 0/1
+Forward Pass: 0/0
+Flank Pass: 2/2
+Ball Control: 2/3
+Dribbling: 1/5
+Long Flank Pass: 0/0
+Pass: 0/0
+Area Pass: 1/1
+Run Ball: 0/0
+Low Cross: 0/0
+Cross: 3/3
+Shots: 0/2
+Headings: 0/0
+Individual challenges: 1
+Interceptions: 0
+Saves: 0
+Concedings: 0
+
+Takemoto
+Gk Long Pass: 0/0
+Long Pass: 1/3
+Forward Pass: 1/3
+Flank Pass: 1/1
+Ball Control: 1/1
+Dribbling: 3/4
+Long Flank Pass: 1/1
+Pass: 2/2
+Area Pass: 0/0
+Run Ball: 3/4
+Low Cross: 0/0
+Cross: 0/1
+Shots: 1/1
+Headings: 0/0
+Individual challenges: 2
+Interceptions: 1
+Saves: 0
+Concedings: 0
+
+Yoshida
+Gk Long Pass: 0/0
+Long Pass: 0/1
+Forward Pass: 0/0
+Flank Pass: 2/2
+Ball Control: 1/1
+Dribbling: 0/0
+Long Flank Pass: 0/0
+Pass: 0/0
+Area Pass: 0/0
+Run Ball: 0/0
+Low Cross: 0/1
+Cross: 2/2
+Shots: 0/0
+Headings: 0/0
+Individual challenges: 2
+Interceptions: 0
+Saves: 0
+Concedings: 0
+
+Shimizu
+Gk Long Pass: 0/0
+Long Pass: 0/0
+Forward Pass: 0/0
+Flank Pass: 0/0
+Ball Control: 0/3
+Dribbling: 0/0
+Long Flank Pass: 0/0
+Pass: 1/1
+Area Pass: 1/2
+Run Ball: 0/0
+Low Cross: 0/0
+Cross: 0/0
+Shots: 0/3
+Headings: 0/0
+Individual challenges: 0
+Interceptions: 0
+Saves: 0
+Concedings: 0
+
+Sogahata
+Gk Long Pass: 0/0
+Long Pass: 2/2
+Forward Pass: 3/3
+Flank Pass: 5/5
+Ball Control: 1/1
+Dribbling: 0/0
+Long Flank Pass: 0/1
+Pass: 0/0
+Area Pass: 0/0
+Run Ball: 0/0
+Low Cross: 0/0
+Cross: 1/1
+Shots: 0/0
+Headings: 0/0
+Individual challenges: 4
+Interceptions: 0
+Saves: 0
+Concedings: 0
+
+Endo
+Gk Long Pass: 0/0
+Long Pass: 0/1
+Forward Pass: 1/2
+Flank Pass: 2/2
+Ball Control: 2/2
+Dribbling: 2/2
+Long Flank Pass: 0/0
+Pass: 1/2
+Area Pass: 1/3
+Run Ball: 1/2
+Low Cross: 0/1
+Cross: 5/6
+Shots: 0/1
+Headings: 0/0
+Individual challenges: 0
+Interceptions: 0
+Saves: 0
+Concedings: 0
+
+Koshio
+Gk Long Pass: 0/0
+Long Pass: 1/1
+Forward Pass: 0/0
+Flank Pass: 3/3
+Ball Control: 0/0
+Dribbling: 2/2
+Long Flank Pass: 0/0
+Pass: 0/1
+Area Pass: 0/1
+Run Ball: 3/4
+Low Cross: 0/0
+Cross: 1/1
+Shots: 0/0
+Headings: 0/0
+Individual challenges: 1
+Interceptions: 1
+Saves: 0
+Concedings: 0
+
+Shimokawa
+Gk Long Pass: 5/6
+Long Pass: 0/0
+Forward Pass: 0/0
+Flank Pass: 4/4
+Ball Control: 0/0
+Dribbling: 0/0
+Long Flank Pass: 0/0
+Pass: 1/1
+Area Pass: 0/0
+Run Ball: 0/0
+Low Cross: 0/0
+Cross: 0/0
+Shots: 0/0
+Headings: 0/0
+Individual challenges: 0
+Interceptions: 5
+Saves: 3
+Concedings: 1
+
+Furuichi
+Gk Long Pass: 0/0
+Long Pass: 0/0
+Forward Pass: 0/0
+Flank Pass: 0/0
+Ball Control: 0/0
+Dribbling: 0/0
+Long Flank Pass: 0/0
+Pass: 0/0
+Area Pass: 0/0
+Run Ball: 0/0
+Low Cross: 0/0
+Cross: 0/0
+Shots: 0/3
+Headings: 0/0
+Individual challenges: 0
+Interceptions: 0
+Saves: 0
+Concedings: 0
+
+Ohta
+Gk Long Pass: 0/0
+Long Pass: 0/1
+Forward Pass: 0/0
+Flank Pass: 1/1
+Ball Control: 1/1
+Dribbling: 0/0
+Long Flank Pass: 0/0
+Pass: 0/0
+Area Pass: 0/0
+Run Ball: 0/0
+Low Cross: 0/2
+Cross: 1/1
+Shots: 0/0
+Headings: 0/0
+Individual challenges: 0
+Interceptions: 0
+Saves: 0
+Concedings: 0
+
+Komatsubara
+Gk Long Pass: 0/0
+Long Pass: 0/2
+Forward Pass: 0/2
+Flank Pass: 3/3
+Ball Control: 0/0
+Dribbling: 0/0
+Long Flank Pass: 0/1
+Pass: 1/2
+Area Pass: 0/0
+Run Ball: 0/1
+Low Cross: 0/0
+Cross: 0/0
+Shots: 0/0
+Headings: 0/0
+Individual challenges: 3
+Interceptions: 0
+Saves: 0
+Concedings: 0
+
