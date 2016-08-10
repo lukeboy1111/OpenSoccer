@@ -1,0 +1,898 @@
+Sogahata
+(Japan,DEFENCE,AXIS,FREE),Move Forward
+Sogahata
+(Japan,CENTRE,FLANK,FREE),Long cross
+Shimizu
+(Japan,ATTACK,AXIS,PRESSED),Ball control
+Tavarelli
+(Paraguay,DEFENCE,THROW_IN,PRESSED),Long throw in-> Throw in
+Tavarelli
+(Paraguay,CENTRE,THROW_IN,PRESSED),High Pass
+Komatsubara
+(Japan,DEFENCE,AXIS,PRESSED),Forward Pass
+Kimura
+(Japan,CENTRE,FLANK,PRESSED),Back Pass
+Koshio
+(Japan,DEFENCE,AXIS,PRESSED),Run with Ball
+Koshio
+(Japan,CENTRE,FLANK,PRESSED),Back Pass
+Komatsubara
+(Japan,DEFENCE,AXIS,FREE),Easy pass
+Takemoto
+(Japan,CENTRE,AXIS,FREE),Long pass to flank
+Lopez
+(Paraguay,DEFENCE,THROW_IN,FREE),Pass to flank
+Sarabia
+(Paraguay,CENTRE,FLANK,FREE),Long Pass-> Foul
+Koshio
+(Japan,DEFENCE,AXIS,FREE),Pass forward to flank
+Kimura
+(Japan,CENTRE,FLANK,FREE),Pass forward to flank
+Ohta
+(Japan,ATTACK,FLANK,PRESSED),Back Pass
+Kimura
+(Japan,CENTRE,FLANK,FREE),Pass to flank
+Ohta
+(Japan,ATTACK,FLANK,FREE),Low cross
+Morel Rodriguez
+(Paraguay,DEFENCE,AXIS,PRESSED),Pass Combination
+Sarabia
+(Paraguay,CENTRE,AXIS,FREE),Long pass to flank
+Yoshida
+(Japan,DEFENCE,THROW_IN,FREE),Lame pass
+Takemoto
+(Japan,DEFENCE,AXIS,FREE),Long Pass
+Sogahata
+(Japan,CENTRE,AXIS,FREE),Long Pass
+Endo
+(Japan,ATTACK,FLANK,PRESSED),Pass Combination
+Sarabia
+(Paraguay,DEFENCE,AXIS,PRESSED),Run with Ball
+Morel Rodriguez
+(Paraguay,DEFENCE,AXIS,FREE),Pass to flank
+Tavarelli
+(Paraguay,CENTRE,FLANK,FREE),Pass to area
+Morel Rodriguez
+(Paraguay,DEFENCE,AXIS,FREE),Pass to flank
+Tavarelli
+(Paraguay,CENTRE,FLANK,FREE),Pass forward to flank
+Benitez
+(Paraguay,ATTACK,FLANK,PRESSED),Dribbling
+Benitez
+(Paraguay,ATTACK,FLANK,FREE),Low cross
+Koshio
+(Japan,DEFENCE,AXIS,FREE),Lame ball control-> Throw in
+Tavarelli
+(Paraguay,CENTRE,THROW_IN,PRESSED),First touch pass
+Tavarelli
+(Paraguay,CENTRE,FLANK,FREE),Pass to flank
+Benitez
+(Paraguay,ATTACK,FLANK,PRESSED),Cross
+Enciso
+(Paraguay,ATTACK,AXIS,FREE),Long pass to the area
+Melgarejo
+(Paraguay,ATTACK,AXIS,FREE),Long pass to the area
+Enciso
+(Paraguay,ATTACK,AXIS,FREE),Shot from penalty area-> Goal
+Yoshida
+(Japan,DEFENCE,AXIS,FREE),Pass to flank
+Endo
+(Japan,CENTRE,FLANK,PRESSED),Pass Combination
+Yoshida
+(Japan,ATTACK,FLANK,PRESSED),Back Pass
+Endo
+(Japan,CENTRE,FLANK,FREE),Dribbling-> Throw in
+Endo
+(Japan,CENTRE,THROW_IN,PRESSED),First touch pass
+Endo
+(Japan,CENTRE,FLANK,FREE),Forward Pass
+Lugo
+(Paraguay,DEFENCE,AXIS,PRESSED),Run with Ball-> Foul
+Lugo
+(Paraguay,DEFENCE,AXIS,FREE),Move Forward
+Lugo
+(Paraguay,CENTRE,AXIS,FREE),Forward Pass
+Komatsubara
+(Japan,DEFENCE,AXIS,FREE),Change of flank
+Endo
+(Japan,ATTACK,FLANK,PRESSED),Pass to area
+Takemoto
+(Japan,DEFENCE,FLANK,PRESSED),Pass to flank
+Endo
+(Japan,CENTRE,FLANK,FREE),Pass to area
+Lugo
+(Paraguay,DEFENCE,AXIS,FREE),Forward Pass
+Koshio
+(Japan,DEFENCE,AXIS,FREE),Pass
+Takemoto
+(Japan,CENTRE,AXIS,PRESSED),Pass Combination
+Endo
+(Japan,ATTACK,FLANK,PRESSED),Ball control
+Endo
+(Japan,ATTACK,FLANK,FREE),Cross
+Endo
+(Japan,CENTRE,THROW_IN,FREE),Move forward in flank
+Endo
+(Japan,ATTACK,FLANK,PRESSED),Long Shot-> Shot on target
+Campos
+(Paraguay,DEFENCE,AXIS,FREE),Long Pass from GK
+Koshio
+(Japan,DEFENCE,AXIS,FREE),Move Forward
+Koshio
+(Japan,CENTRE,FLANK,FREE),Pass to area
+Morel Rodriguez
+(Paraguay,DEFENCE,AXIS,FREE),Long Pass
+Koshio
+(Japan,DEFENCE,AXIS,FREE),Run with Ball
+Koshio
+(Japan,CENTRE,AXIS,PRESSED),Dribbling-> Foul
+Koshio
+(Japan,CENTRE,AXIS,FREE),Long pass to the area
+Furuichi
+(Japan,ATTACK,AXIS,FREE),Long Shot-> Shot off target
+Campos
+(Paraguay,DEFENCE,AXIS,FREE),Pass to flank
+Tavarelli
+(Paraguay,CENTRE,FLANK,FREE),Pass to area
+Komatsubara
+(Japan,DEFENCE,AXIS,FREE),Pass to flank
+Endo
+(Japan,CENTRE,FLANK,PRESSED),Move back
+Endo
+(Japan,DEFENCE,FLANK,PRESSED),Kick Away-> Goal kick
+Campos
+(Paraguay,DEFENCE,AXIS,FREE),Long Pass from GK
+Koshio
+(Japan,DEFENCE,AXIS,FREE),Lame ball control-> Throw in
+Lopez
+(Paraguay,CENTRE,THROW_IN,PRESSED),Long throw in
+Komatsubara
+(Japan,DEFENCE,AXIS,PRESSED),Kick Away-> Throw in
+Lopez
+(Paraguay,CENTRE,THROW_IN,FREE),Move forward in flank
+Lopez
+(Paraguay,ATTACK,FLANK,PRESSED),Cross
+Melgarejo
+(Paraguay,ATTACK,AXIS,FREE),Long Shot-> Shot on target
+Koshio
+(Japan,DEFENCE,AXIS,PRESSED),Run with Ball
+Sogahata
+(Japan,DEFENCE,AXIS,FREE),Pass forward to flank
+Endo
+(Japan,CENTRE,FLANK,FREE),Long cross
+Shimizu
+(Japan,ATTACK,AXIS,PRESSED),High area pass
+Kimura
+(Japan,ATTACK,FLANK,PRESSED),Long Shot-> Shot off target
+Kimura
+(Japan,ATTACK,CORNER_KICK,FREE),Delay
+Kimura
+(Japan,ATTACK,FLANK,PRESSED),Ball control
+Kimura
+(Japan,ATTACK,FLANK,FREE),Cross
+Shimizu
+(Japan,ATTACK,AXIS,PRESSED),Pass
+Lugo
+(Paraguay,DEFENCE,AXIS,PRESSED),Pass to flank
+Lopez
+(Paraguay,CENTRE,FLANK,PRESSED),Back Pass
+Sanabria
+(Paraguay,DEFENCE,AXIS,FREE),Long Pass
+Sogahata
+(Japan,CENTRE,AXIS,FREE),Long Pass
+Endo
+(Japan,ATTACK,FLANK,PRESSED),Cross
+Lopez
+(Paraguay,DEFENCE,THROW_IN,PRESSED),Long throw in
+Endo
+(Japan,CENTRE,FLANK,PRESSED),Pass Combination
+Yoshida
+(Japan,ATTACK,FLANK,PRESSED),Ball control
+Yoshida
+(Japan,ATTACK,FLANK,FREE),Cross
+Endo
+(Japan,ATTACK,CORNER_KICK,FREE),Delay
+Endo
+(Japan,ATTACK,FLANK,PRESSED),Cross
+Endo
+(Japan,CENTRE,FLANK,FREE),Long cross
+Sarabia
+(Paraguay,DEFENCE,AXIS,FREE),High Pass
+Morel Rodriguez
+(Paraguay,CENTRE,AXIS,PRESSED),Long Shot-> Shot on target
+Shimokawa
+(Japan,DEFENCE,AXIS,FREE),Pass to flank
+Kimura
+(Japan,CENTRE,FLANK,FREE),Pass to area
+Takemoto
+(Japan,DEFENCE,AXIS,FREE),Long Pass
+Morel Rodriguez
+(Paraguay,DEFENCE,AXIS,FREE),Move Forward
+Morel Rodriguez
+(Paraguay,CENTRE,AXIS,FREE),Pass to flank
+Ohta
+(Japan,DEFENCE,FLANK,PRESSED),Long Pass
+Sarabia
+(Paraguay,DEFENCE,AXIS,FREE),Long Pass
+Takemoto
+(Japan,DEFENCE,AXIS,FREE),Pass
+Tavarelli
+(Paraguay,CENTRE,FLANK,PRESSED),Back Pass
+Morel Rodriguez
+(Paraguay,DEFENCE,FLANK,FREE),Move Forward
+Morel Rodriguez
+(Paraguay,CENTRE,AXIS,FREE),Forward Pass
+Sogahata
+(Japan,DEFENCE,AXIS,FREE),Pass to flank
+Endo
+(Japan,CENTRE,FLANK,FREE),Pass Combination
+Shimizu
+(Japan,ATTACK,AXIS,PRESSED),Long Shot-> Shot off target
+Campos
+(Paraguay,DEFENCE,AXIS,FREE),Pass to flank
+Lopez
+(Paraguay,CENTRE,FLANK,PRESSED),Dribbling-> Throw in
+Yoshida
+(Japan,DEFENCE,THROW_IN,FREE),Lame pass
+Komatsubara
+(Japan,DEFENCE,AXIS,FREE),Pass to flank
+Endo
+(Japan,CENTRE,FLANK,FREE),Forward Pass
+Shimizu
+(Japan,ATTACK,AXIS,PRESSED),Ball control
+Tavarelli
+(Paraguay,DEFENCE,THROW_IN,PRESSED),Long throw in
+Furuichi
+(Japan,ATTACK,AXIS,PRESSED),Long Shot-> Shot off target
+Campos
+(Paraguay,DEFENCE,AXIS,FREE),Pass to flank
+Lopez
+(Paraguay,CENTRE,FLANK,PRESSED),Back Pass
+Sarabia
+(Paraguay,DEFENCE,AXIS,PRESSED),Dribbling
+Sogahata
+(Japan,CENTRE,AXIS,PRESSED),Pass to flank-> Throw in
+Kimura
+(Japan,CENTRE,THROW_IN,PRESSED),Throw in
+Morel Rodriguez
+(Paraguay,DEFENCE,AXIS,FREE),Pass to flank
+Tavarelli
+(Paraguay,CENTRE,FLANK,FREE),Pass to flank
+Benitez
+(Paraguay,ATTACK,FLANK,PRESSED),Ball control
+Benitez
+(Paraguay,ATTACK,FLANK,FREE),Low cross
+Takemoto
+(Japan,DEFENCE,AXIS,PRESSED),Pass to GK
+Shimokawa
+(Japan,DEFENCE,AXIS,FREE),Long Pass from GK
+Kimura
+(Japan,CENTRE,THROW_IN,PRESSED),Throw in back
+Takemoto
+(Japan,DEFENCE,FLANK,FREE),Move Forward
+Takemoto
+(Japan,CENTRE,AXIS,FREE),Forward Pass
+Lugo
+(Paraguay,DEFENCE,AXIS,FREE),Pass
+Kimura
+(Japan,CENTRE,FLANK,PRESSED),Dribbling
+Sarabia
+(Paraguay,DEFENCE,AXIS,FREE),Run with Ball
+Sarabia
+(Paraguay,CENTRE,AXIS,PRESSED),Run with Ball
+Sarabia
+(Paraguay,ATTACK,FLANK,PRESSED),Dribbling
+Takemoto
+(Japan,DEFENCE,AXIS,PRESSED),Run with Ball
+Takemoto
+(Japan,CENTRE,FLANK,PRESSED),Dribbling-> Throw in
+Kimura
+(Japan,CENTRE,THROW_IN,PRESSED),Long throw in
+Sanabria
+(Paraguay,DEFENCE,AXIS,PRESSED),Run with Ball
+Lugo
+(Paraguay,DEFENCE,AXIS,FREE),Lame ball control-> Throw in
+Endo
+(Japan,CENTRE,THROW_IN,PRESSED),Throw in
+Sarabia
+(Paraguay,DEFENCE,AXIS,FREE),Easy pass
+Morel Rodriguez
+(Paraguay,CENTRE,AXIS,FREE),Pass forward to flank
+Santa Cruz
+(Paraguay,ATTACK,FLANK,PRESSED),Pass Combination
+Komatsubara
+(Japan,DEFENCE,AXIS,PRESSED),Run with Ball-> Foul
+Sarabia
+(Paraguay,DEFENCE,AXIS,FREE),Forward Pass
+Morel Rodriguez
+(Paraguay,CENTRE,AXIS,PRESSED),Pass Combination
+Tavarelli
+(Paraguay,CENTRE,FLANK,FREE),Pass to flank
+Benitez
+(Paraguay,ATTACK,FLANK,FREE),Low cross
+Komatsubara
+(Japan,DEFENCE,AXIS,FREE),Pass
+Tavarelli
+(Paraguay,CENTRE,FLANK,PRESSED),Move back
+Tavarelli
+(Paraguay,DEFENCE,FLANK,PRESSED),Kick Away-> Goal kick
+Shimokawa
+(Japan,DEFENCE,AXIS,FREE),Long Pass from GK-> Foul
+Sarabia
+(Paraguay,DEFENCE,AXIS,FREE),Move Forward
+Sarabia
+(Paraguay,CENTRE,AXIS,FREE),Forward Pass
+Enciso
+(Paraguay,ATTACK,AXIS,PRESSED),High area pass
+Santa Cruz
+(Paraguay,ATTACK,FLANK,PRESSED),Cross
+Enciso
+(Paraguay,ATTACK,AXIS,FREE),Long Shot-> Shot off target
+Shimokawa
+(Japan,DEFENCE,AXIS,FREE),Pass to flank
+Endo
+(Japan,CENTRE,FLANK,FREE),Long Pass-> Foul
+Sarabia
+(Paraguay,DEFENCE,AXIS,FREE),Pass forward under pressing-> Foul
+Sarabia
+(Paraguay,CENTRE,AXIS,FREE),Pass forward to flank
+Benitez
+(Paraguay,ATTACK,FLANK,PRESSED),Ball control
+Benitez
+(Paraguay,ATTACK,FLANK,FREE),Cross
+Melgarejo
+(Paraguay,ATTACK,AXIS,PRESSED),Pass to flank
+Benitez
+(Paraguay,ATTACK,FLANK,FREE),Low cross
+Takemoto
+(Japan,DEFENCE,AXIS,PRESSED),Dribbling
+Morel Rodriguez
+(Paraguay,CENTRE,AXIS,PRESSED),Dribbling
+Komatsubara
+(Japan,DEFENCE,AXIS,FREE),Long Pass
+Sanabria
+(Paraguay,DEFENCE,AXIS,FREE),High flank pass
+Tavarelli
+(Paraguay,CENTRE,FLANK,FREE),Long cross
+Sogahata
+(Japan,DEFENCE,AXIS,FREE),Forward Pass
+Takemoto
+(Japan,CENTRE,AXIS,PRESSED),Long Shot-> Goal
+Sanabria
+(Paraguay,DEFENCE,AXIS,FREE),Move Forward
+Sanabria
+(Paraguay,CENTRE,AXIS,FREE),Change of flank
+Santa Cruz
+(Paraguay,ATTACK,FLANK,PRESSED),Cross
+Koshio
+(Japan,DEFENCE,AXIS,FREE),Pass forward to flank
+Kimura
+(Japan,CENTRE,FLANK,FREE),Pass forward to flank
+Ohta
+(Japan,ATTACK,FLANK,PRESSED),Back Pass
+Kimura
+(Japan,CENTRE,FLANK,FREE),Long Shot-> Shot on target
+Campos
+(Paraguay,DEFENCE,AXIS,FREE),Long Pass from GK-> Foul
+Morel Rodriguez
+(Paraguay,DEFENCE,AXIS,FREE),Pass to flank
+Tavarelli
+(Paraguay,CENTRE,FLANK,FREE),Forward Pass
+Melgarejo
+(Paraguay,ATTACK,AXIS,PRESSED),Low area cross
+Enciso
+(Paraguay,ATTACK,AXIS,FREE),Shot from penalty area-> Shot off target
+Shimokawa
+(Japan,DEFENCE,AXIS,FREE),Pass to flank
+Endo
+(Japan,CENTRE,FLANK,PRESSED),Dribbling-> Throw in
+Yoshida
+(Japan,DEFENCE,THROW_IN,PRESSED),Long throw in
+Lopez
+(Paraguay,CENTRE,FLANK,PRESSED),Pass
+Koshio
+(Japan,DEFENCE,AXIS,FREE),Move Forward
+Koshio
+(Japan,CENTRE,FLANK,FREE),Long cross
+Furuichi
+(Japan,ATTACK,AXIS,PRESSED),Long Shot-> Shot off target
+Campos
+(Paraguay,DEFENCE,AXIS,FREE),Long Pass from GK
+Takemoto
+(Japan,CENTRE,AXIS,FREE),Pass
+Shimizu
+(Japan,ATTACK,AXIS,FREE),Shot from penalty area-> Shot on target
+Sanabria
+(Paraguay,DEFENCE,AXIS,PRESSED),Pass to flank
+Lopez
+(Paraguay,CENTRE,FLANK,PRESSED),Dribbling-> Throw in
+Yoshida
+(Japan,DEFENCE,THROW_IN,FREE),Pass to flank
+Endo
+(Japan,CENTRE,FLANK,FREE),Pass to flank
+Yoshida
+(Japan,ATTACK,FLANK,FREE),Low cross
+Morel Rodriguez
+(Paraguay,DEFENCE,AXIS,PRESSED),Pass to flank
+Tavarelli
+(Paraguay,DEFENCE,FLANK,FREE),Long Pass
+Sarabia
+(Paraguay,CENTRE,AXIS,PRESSED),Back Pass
+Lugo
+(Paraguay,DEFENCE,AXIS,FREE),Move Forward
+Lugo
+(Paraguay,CENTRE,AXIS,FREE),Pass to flank
+Benitez
+(Paraguay,ATTACK,FLANK,PRESSED),Cross
+Tavarelli
+(Paraguay,CENTRE,FLANK,FREE),Pass to area
+Sanabria
+(Paraguay,DEFENCE,AXIS,FREE),Forward Pass
+Sarabia
+(Paraguay,CENTRE,AXIS,PRESSED),Back Pass
+Lugo
+(Paraguay,DEFENCE,AXIS,FREE),Move Forward
+Lugo
+(Paraguay,CENTRE,AXIS,FREE),Pass forward to flank
+Santa Cruz
+(Paraguay,ATTACK,FLANK,PRESSED),Cross
+Lopez
+(Paraguay,ATTACK,CORNER_KICK,FREE),Cross
+Sogahata
+(Japan,DEFENCE,AXIS,FREE),Move Forward
+Sogahata
+(Japan,CENTRE,AXIS,FREE),Move Forward
+Sogahata
+(Japan,ATTACK,FLANK,PRESSED),Back Pass
+Takemoto
+(Japan,CENTRE,AXIS,PRESSED),Pass Combination
+Endo
+(Japan,CENTRE,FLANK,FREE),Run with Ball
+Endo
+(Japan,ATTACK,AXIS,PRESSED),Pass
+Sarabia
+(Paraguay,DEFENCE,AXIS,PRESSED),Run with Ball-> Foul
+Koshio
+(Japan,DEFENCE,AXIS,FREE),Move Forward
+Koshio
+(Japan,CENTRE,AXIS,PRESSED),Dribbling
+Sogahata
+(Japan,DEFENCE,AXIS,PRESSED),Forward Pass
+Kimura
+(Japan,CENTRE,FLANK,PRESSED),Dribbling-> Throw in
+Tavarelli
+(Paraguay,DEFENCE,THROW_IN,FREE),Lame pass
+Morel Rodriguez
+(Paraguay,DEFENCE,AXIS,FREE),Move Forward
+Morel Rodriguez
+(Paraguay,CENTRE,FLANK,FREE),Pass forward to flank
+Benitez
+(Paraguay,ATTACK,FLANK,PRESSED),Dribbling
+Benitez
+(Paraguay,ATTACK,FLANK,FREE),Cross
+Enciso
+(Paraguay,ATTACK,AXIS,PRESSED),Back Pass-> Throw in
+Ohta
+(Japan,DEFENCE,THROW_IN,FREE),Pass to flank
+Kimura
+(Japan,CENTRE,FLANK,FREE),Dribbling-> Throw in
+Kimura
+(Japan,CENTRE,THROW_IN,PRESSED),Throw in back
+Takemoto
+(Japan,DEFENCE,FLANK,FREE),Move Forward
+Takemoto
+(Japan,CENTRE,FLANK,FREE),Forward Pass
+Shimizu
+(Japan,ATTACK,AXIS,PRESSED),Back Pass
+Furuichi
+(Japan,ATTACK,AXIS,PRESSED),Back Pass
+Shimizu
+(Japan,ATTACK,AXIS,PRESSED),Pass to area
+Morel Rodriguez
+(Paraguay,DEFENCE,AXIS,PRESSED),Pass to GK
+Campos
+(Paraguay,DEFENCE,AXIS,FREE),Pass to flank
+Lopez
+(Paraguay,CENTRE,FLANK,PRESSED),Dribbling
+Komatsubara
+(Japan,DEFENCE,AXIS,FREE),Easy pass
+Sogahata
+(Japan,CENTRE,AXIS,FREE),Long pass to flank
+Tavarelli
+(Paraguay,DEFENCE,FLANK,FREE),Forward Pass
+Sarabia
+(Paraguay,CENTRE,FLANK,PRESSED),Long Pass
+Kimura
+(Japan,DEFENCE,FLANK,PRESSED),Back Pass
+Komatsubara
+(Japan,DEFENCE,AXIS,FREE),Move Forward
+Komatsubara
+(Japan,CENTRE,FLANK,FREE),Forward Pass
+Lugo
+(Paraguay,DEFENCE,AXIS,FREE),Pass to flank
+Lopez
+(Paraguay,CENTRE,FLANK,FREE),Forward Pass
+Melgarejo
+(Paraguay,ATTACK,AXIS,PRESSED),Pass to area
+Koshio
+(Japan,DEFENCE,AXIS,FREE),Move Forward
+Koshio
+(Japan,CENTRE,AXIS,FREE),Long pass to the area
+Furuichi
+(Japan,ATTACK,AXIS,FREE),Long pass to the area
+Shimizu
+(Japan,ATTACK,AXIS,FREE),Shot from penalty area-> Shot on target
+Campos
+(Paraguay,DEFENCE,AXIS,FREE),Long Pass from GK
+Koshio
+(Japan,DEFENCE,AXIS,PRESSED),Pass to flank
+Kimura
+(Japan,CENTRE,FLANK,PRESSED),Back Pass
+Komatsubara
+(Japan,DEFENCE,AXIS,FREE),Pass
+Takemoto
+(Japan,CENTRE,AXIS,PRESSED),Run with Ball
+Takemoto
+(Japan,ATTACK,FLANK,PRESSED),Ball control-> Foul
+Takemoto
+(Japan,ATTACK,FLANK,FREE),Cross
+Lopez
+(Paraguay,DEFENCE,FLANK,PRESSED),Pass to flank
+Sarabia
+(Paraguay,CENTRE,FLANK,FREE),Long Shot-> Shot off target
+Lopez
+(Paraguay,ATTACK,CORNER_KICK,FREE),Cross
+Koshio
+(Japan,DEFENCE,AXIS,FREE),Pass to flank
+Endo
+(Japan,CENTRE,FLANK,FREE),Run with Ball
+Endo
+(Japan,ATTACK,AXIS,PRESSED),Pass to area
+Sanabria
+(Paraguay,DEFENCE,AXIS,PRESSED),Run with Ball
+Lugo
+(Paraguay,DEFENCE,AXIS,FREE),Counter attack
+Sarabia
+(Paraguay,CENTRE,AXIS,FREE),Long pass to the area
+Melgarejo
+(Paraguay,ATTACK,AXIS,FREE),Long Shot-> Shot on target
+Koshio
+(Japan,DEFENCE,AXIS,PRESSED),Run with Ball-> Foul
+Morel Rodriguez
+(Paraguay,DEFENCE,AXIS,FREE),Move Forward
+Morel Rodriguez
+(Paraguay,CENTRE,FLANK,FREE),Forward Pass
+Sogahata
+(Japan,DEFENCE,AXIS,PRESSED),Pass to flank
+Kimura
+(Japan,CENTRE,FLANK,PRESSED),Dribbling-> Throw in
+Tavarelli
+(Paraguay,DEFENCE,THROW_IN,FREE),Lame pass
+Sarabia
+(Paraguay,DEFENCE,AXIS,FREE),Forward Pass
+Komatsubara
+(Japan,DEFENCE,AXIS,FREE),Long Pass-> Throw in
+Tavarelli
+(Paraguay,DEFENCE,THROW_IN,PRESSED),Long throw in-> Throw in
+Tavarelli
+(Paraguay,CENTRE,THROW_IN,PRESSED),Throw in
+Komatsubara
+(Japan,DEFENCE,AXIS,FREE),Move Forward
+Komatsubara
+(Japan,CENTRE,FLANK,FREE),Pass to flank
+Endo
+(Japan,ATTACK,FLANK,PRESSED),Low cross
+Morel Rodriguez
+(Paraguay,DEFENCE,AXIS,FREE),Long Pass-> Throw in
+Yoshida
+(Japan,DEFENCE,THROW_IN,PRESSED),Long throw in
+Melgarejo
+(Paraguay,ATTACK,AXIS,PRESSED),Back Pass-> Throw in
+Ohta
+(Japan,DEFENCE,THROW_IN,FREE),Lame pass
+Komatsubara
+(Japan,DEFENCE,AXIS,FREE),Pass forward to flank
+Kimura
+(Japan,CENTRE,FLANK,FREE),Long cross
+Morel Rodriguez
+(Paraguay,DEFENCE,AXIS,FREE),Run with Ball
+Morel Rodriguez
+(Paraguay,CENTRE,AXIS,PRESSED),Pass Combination
+Tavarelli
+(Paraguay,CENTRE,FLANK,FREE),Pass to area
+Morel Rodriguez
+(Paraguay,DEFENCE,AXIS,FREE),Easy pass
+Sarabia
+(Paraguay,CENTRE,AXIS,FREE),Dribbling
+Sogahata
+(Japan,DEFENCE,AXIS,FREE),Lame ball control-> Throw in
+Lopez
+(Paraguay,CENTRE,THROW_IN,PRESSED),High Pass
+Takemoto
+(Japan,DEFENCE,AXIS,PRESSED),Run with Ball-> Foul
+Sarabia
+(Paraguay,DEFENCE,AXIS,FREE),Move Forward
+Sarabia
+(Paraguay,CENTRE,FLANK,FREE),Pass forward to flank
+Santa Cruz
+(Paraguay,ATTACK,FLANK,PRESSED),Dribbling
+Santa Cruz
+(Paraguay,ATTACK,FLANK,FREE),Cross
+Lopez
+(Paraguay,CENTRE,THROW_IN,FREE),Move forward in flank
+Lopez
+(Paraguay,ATTACK,FLANK,PRESSED),Back Pass
+Morel Rodriguez
+(Paraguay,CENTRE,FLANK,FREE),Run with Ball
+Morel Rodriguez
+(Paraguay,ATTACK,AXIS,PRESSED),Pass to area
+Komatsubara
+(Japan,DEFENCE,AXIS,FREE),Long pass to flank
+Lopez
+(Paraguay,DEFENCE,FLANK,FREE),Long Pass
+Morel Rodriguez
+(Paraguay,CENTRE,AXIS,PRESSED),Dribbling
+Takemoto
+(Japan,DEFENCE,AXIS,FREE),High Pass-> Foul
+Sarabia
+(Paraguay,DEFENCE,AXIS,FREE),Pass to flank
+Tavarelli
+(Paraguay,CENTRE,FLANK,PRESSED),High Pass
+Kimura
+(Japan,DEFENCE,FLANK,FREE),High Pass
+Ohta
+(Japan,CENTRE,FLANK,PRESSED),Ball control-> Throw in
+Kimura
+(Japan,CENTRE,THROW_IN,PRESSED),Pass to GK
+Shimokawa
+(Japan,DEFENCE,AXIS,FREE),Pass to flank
+Kimura
+(Japan,CENTRE,FLANK,FREE),Pass forward to flank
+Ohta
+(Japan,ATTACK,FLANK,FREE),Cross
+Kimura
+(Japan,CENTRE,THROW_IN,FREE),Move forward in flank
+Kimura
+(Japan,ATTACK,FLANK,PRESSED),Ball control
+Kimura
+(Japan,ATTACK,FLANK,FREE),Long cross
+Kimura
+(Japan,ATTACK,FLANK,PRESSED),Ball control
+Tavarelli
+(Paraguay,DEFENCE,FLANK,PRESSED),Ball control-> Foul
+Tavarelli
+(Paraguay,DEFENCE,FLANK,FREE),Move Forward
+Tavarelli
+(Paraguay,CENTRE,FLANK,FREE),Pass to area
+Koshio
+(Japan,DEFENCE,AXIS,FREE),Long Pass
+Sogahata
+(Japan,DEFENCE,AXIS,PRESSED),Pass to GK
+Shimokawa
+(Japan,DEFENCE,AXIS,FREE),Long Pass from GK
+Endo
+(Japan,CENTRE,THROW_IN,PRESSED),Pass to GK
+Shimokawa
+(Japan,DEFENCE,AXIS,FREE),Long Pass from GK
+Endo
+(Japan,CENTRE,THROW_IN,PRESSED),Long throw in
+Lopez
+(Paraguay,DEFENCE,FLANK,PRESSED),Back Pass
+Lugo
+(Paraguay,DEFENCE,AXIS,FREE),Forward Pass-> Foul
+Morel Rodriguez
+(Paraguay,CENTRE,AXIS,FREE),Pass to flank
+Santa Cruz
+(Paraguay,ATTACK,FLANK,PRESSED),Cross
+Lopez
+(Paraguay,ATTACK,CORNER_KICK,FREE),Cross
+Takemoto
+(Japan,DEFENCE,AXIS,FREE),Move Forward
+Takemoto
+(Japan,CENTRE,FLANK,PRESSED),Dribbling
+Sarabia
+(Paraguay,DEFENCE,AXIS,FREE),High Pass
+Sarabia
+(Paraguay,CENTRE,AXIS,PRESSED),Dribbling-> Foul
+Sarabia
+(Paraguay,CENTRE,AXIS,FREE),Forward Pass
+Enciso
+(Paraguay,ATTACK,AXIS,PRESSED),Low area cross
+Melgarejo
+(Paraguay,ATTACK,AXIS,FREE),Long Shot-> Shot off target
+Shimokawa
+(Japan,DEFENCE,AXIS,FREE),Pass
+Lopez
+(Paraguay,CENTRE,FLANK,PRESSED),Pass Combination
+Santa Cruz
+(Paraguay,ATTACK,FLANK,PRESSED),Cross
+Lopez
+(Paraguay,CENTRE,FLANK,FREE),Forward Pass
+Melgarejo
+(Paraguay,ATTACK,AXIS,PRESSED),Ball control
+Yoshida
+(Japan,DEFENCE,THROW_IN,PRESSED),Long throw in
+Lopez
+(Paraguay,CENTRE,FLANK,PRESSED),Back Pass
+Sanabria
+(Paraguay,DEFENCE,AXIS,PRESSED),Run with Ball
+Sanabria
+(Paraguay,CENTRE,FLANK,PRESSED),Pass
+Sogahata
+(Japan,DEFENCE,AXIS,FREE),Pass to flank
+Endo
+(Japan,CENTRE,FLANK,FREE),Pass Combination
+Shimizu
+(Japan,ATTACK,AXIS,PRESSED),Ball control
+Lopez
+(Paraguay,DEFENCE,THROW_IN,PRESSED),Long throw in-> Throw in
+Lopez
+(Paraguay,CENTRE,THROW_IN,PRESSED),Throw in back
+Morel Rodriguez
+(Paraguay,DEFENCE,FLANK,FREE),High Pass
+Lopez
+(Paraguay,CENTRE,FLANK,PRESSED),Pass
+Takemoto
+(Japan,DEFENCE,AXIS,FREE),Move Forward
+Takemoto
+(Japan,CENTRE,FLANK,FREE),Dribbling-> Throw in
+Endo
+(Japan,CENTRE,THROW_IN,PRESSED),First touch pass
+Endo
+(Japan,CENTRE,FLANK,FREE),Pass to flank
+Yoshida
+(Japan,ATTACK,FLANK,FREE),Cross
+Endo
+(Japan,CENTRE,THROW_IN,FREE),Move forward in flank
+Endo
+(Japan,ATTACK,FLANK,PRESSED),Cross
+Lopez
+(Paraguay,DEFENCE,THROW_IN,PRESSED),Long throw in
+Endo
+(Japan,CENTRE,FLANK,PRESSED),Ball control-> Throw in
+Endo
+(Japan,CENTRE,THROW_IN,PRESSED),Long throw in
+Lopez
+(Paraguay,DEFENCE,FLANK,PRESSED),Kick Away-> Goal kick
+Shimokawa
+(Japan,DEFENCE,AXIS,FREE),Long Pass from GK
+Morel Rodriguez
+(Paraguay,DEFENCE,AXIS,PRESSED),Run with Ball
+Morel Rodriguez
+(Paraguay,DEFENCE,AXIS,FREE),Forward Pass
+Sarabia
+(Paraguay,CENTRE,AXIS,PRESSED),Dribbling
+Lugo
+(Paraguay,DEFENCE,AXIS,PRESSED),Run with Ball
+Lugo
+(Paraguay,CENTRE,FLANK,PRESSED),Long Pass
+Kimura
+(Japan,DEFENCE,FLANK,PRESSED),Long Pass
+Sanabria
+(Paraguay,DEFENCE,AXIS,FREE),Loose forward pass
+Tavarelli
+(Paraguay,CENTRE,FLANK,PRESSED),Move back
+Tavarelli
+(Paraguay,DEFENCE,FLANK,PRESSED),Pass to GK
+Campos
+(Paraguay,DEFENCE,AXIS,FREE),Pass to flank
+Tavarelli
+(Paraguay,CENTRE,FLANK,FREE),Pass forward to flank
+Benitez
+(Paraguay,ATTACK,FLANK,PRESSED),Cross
+Ohta
+(Japan,DEFENCE,THROW_IN,PRESSED),Long throw in
+Tavarelli
+(Paraguay,CENTRE,FLANK,PRESSED),Forward Pass
+Komatsubara
+(Japan,DEFENCE,AXIS,FREE),Loose forward pass
+Endo
+(Japan,CENTRE,FLANK,PRESSED),Pass
+Morel Rodriguez
+(Paraguay,DEFENCE,AXIS,FREE),Long Pass
+Sarabia
+(Paraguay,CENTRE,AXIS,FREE),Move Forward
+Sarabia
+(Paraguay,ATTACK,FLANK,PRESSED),Dribbling-> Goal kick
+Shimokawa
+(Japan,DEFENCE,AXIS,FREE),Long Pass from GK
+Sogahata
+(Japan,CENTRE,AXIS,PRESSED),Pass to flank-> Throw in
+Endo
+(Japan,CENTRE,THROW_IN,PRESSED),High Pass
+Sanabria
+(Paraguay,DEFENCE,AXIS,PRESSED),Pass to flank-> Throw in
+Endo
+(Japan,CENTRE,THROW_IN,PRESSED),Throw in back
+Takemoto
+(Japan,DEFENCE,FLANK,FREE),Long Pass
+Takemoto
+(Japan,CENTRE,AXIS,PRESSED),Forward Pass
+Shimizu
+(Japan,ATTACK,AXIS,PRESSED),Pass to area
+Sarabia
+(Paraguay,DEFENCE,AXIS,FREE),Move Forward
+Sarabia
+(Paraguay,CENTRE,AXIS,FREE),Long pass to flank
+Ohta
+(Japan,DEFENCE,THROW_IN,FREE),Lame pass
+Koshio
+(Japan,DEFENCE,AXIS,FREE),Move Forward
+Koshio
+(Japan,CENTRE,FLANK,FREE),Pass to flank
+Endo
+(Japan,ATTACK,FLANK,PRESSED),Back Pass
+Yoshida
+(Japan,CENTRE,FLANK,FREE),Long Pass-> Foul
+Sarabia
+(Paraguay,DEFENCE,AXIS,FREE),Pass
+Morel Rodriguez
+(Paraguay,CENTRE,AXIS,PRESSED),Dribbling
+Sogahata
+(Japan,DEFENCE,AXIS,FREE),Move Forward
+Sogahata
+(Japan,CENTRE,AXIS,PRESSED),Ball control
+Sogahata
+(Japan,CENTRE,AXIS,FREE),Forward Pass
+Furuichi
+(Japan,ATTACK,AXIS,PRESSED),Back Pass-> Throw in
+Tavarelli
+(Paraguay,DEFENCE,THROW_IN,FREE),Pass to flank
+Sarabia
+(Paraguay,CENTRE,FLANK,FREE),Pass forward to flank
+Benitez
+(Paraguay,ATTACK,FLANK,PRESSED),Pass Combination
+Sogahata
+(Japan,DEFENCE,AXIS,PRESSED),Kick Away
+Benitez
+(Paraguay,ATTACK,FLANK,FREE),Cross
+Tavarelli
+(Paraguay,CENTRE,THROW_IN,FREE),Move forward in flank
+Tavarelli
+(Paraguay,ATTACK,FLANK,PRESSED),Back Pass
+Sarabia
+(Paraguay,CENTRE,AXIS,PRESSED),Dribbling-> Foul
+Sarabia
+(Paraguay,CENTRE,AXIS,FREE),Forward Pass
+Enciso
+(Paraguay,ATTACK,AXIS,PRESSED),Pass to flank
+Benitez
+(Paraguay,ATTACK,FLANK,FREE),Cross
+Tavarelli
+(Paraguay,CENTRE,THROW_IN,FREE),Move forward in flank
+Tavarelli
+(Paraguay,ATTACK,FLANK,PRESSED),Cross
+Ohta
+(Japan,DEFENCE,THROW_IN,PRESSED),Long throw in-> Throw in
+Kimura
+(Japan,CENTRE,THROW_IN,PRESSED),First touch pass
+Kimura
+(Japan,CENTRE,FLANK,FREE),Pass to flank
+Ohta
+(Japan,ATTACK,FLANK,PRESSED),Low cross
+Sanabria
+(Paraguay,DEFENCE,AXIS,FREE),Long Pass
+Koshio
+(Japan,DEFENCE,AXIS,FREE),Strong pass
+Sanabria
+(Paraguay,DEFENCE,AXIS,FREE),High Pass
+Sarabia
+(Paraguay,CENTRE,AXIS,PRESSED),Long Pass-> Offside
+Ohta
+(Japan,DEFENCE,AXIS,FREE),Move Forward
+Ohta
+(Japan,CENTRE,FLANK,FREE),Pass forward to flank
+Kimura
+(Japan,ATTACK,FLANK,PRESSED),Dribbling-> Goal kick
+Campos
+(Paraguay,DEFENCE,AXIS,FREE),Pass to flank
+Lopez
+(Paraguay,CENTRE,FLANK,FREE),Dribbling-> Throw in
+Lopez
+(Paraguay,CENTRE,THROW_IN,PRESSED),High Pass-> Foul
+Morel Rodriguez
+(Paraguay,CENTRE,FLANK,FREE),Forward Pass
+Melgarejo
+(Paraguay,ATTACK,AXIS,PRESSED),Pass
+Takemoto
+(Japan,DEFENCE,AXIS,PRESSED),Run with Ball

@@ -1,0 +1,286 @@
+Lopez
+Passes: 6/7
+Personal challenges (attacking): 0/4
+Crosses: 3/4
+Player runs: 0/0
+Personal challenges won (defending): 0
+Interceptions: 0
+Saves: 0
+Attempts at goal: 0/0
+Goals scored: 0
+Penalties missed: 0
+Penalties saved: 0
+
+Tavarelli
+Passes: 7/13
+Personal challenges (attacking): 1/1
+Crosses: 2/2
+Player runs: 0/0
+Personal challenges won (defending): 1
+Interceptions: 2
+Saves: 0
+Attempts at goal: 0/0
+Goals scored: 0
+Penalties missed: 0
+Penalties saved: 0
+
+Enciso
+Passes: 1/1
+Personal challenges (attacking): 0/0
+Crosses: 0/0
+Player runs: 0/0
+Personal challenges won (defending): 0
+Interceptions: 0
+Saves: 0
+Attempts at goal: 1/3
+Goals scored: 1
+Penalties missed: 0
+Penalties saved: 0
+
+Morel Rodriguez
+Passes: 9/15
+Personal challenges (attacking): 0/3
+Crosses: 0/0
+Player runs: 2/3
+Personal challenges won (defending): 0
+Interceptions: 0
+Saves: 0
+Attempts at goal: 0/1
+Goals scored: 0
+Penalties missed: 0
+Penalties saved: 0
+
+Lugo
+Passes: 5/8
+Personal challenges (attacking): 0/0
+Crosses: 0/0
+Player runs: 1/2
+Personal challenges won (defending): 1
+Interceptions: 1
+Saves: 0
+Attempts at goal: 0/0
+Goals scored: 0
+Penalties missed: 0
+Penalties saved: 0
+
+Sanabria
+Passes: 3/6
+Personal challenges (attacking): 0/0
+Crosses: 0/0
+Player runs: 2/3
+Personal challenges won (defending): 0
+Interceptions: 0
+Saves: 0
+Attempts at goal: 0/0
+Goals scored: 0
+Penalties missed: 0
+Penalties saved: 0
+
+Melgarejo
+Passes: 1/3
+Personal challenges (attacking): 1/1
+Crosses: 0/0
+Player runs: 0/0
+Personal challenges won (defending): 0
+Interceptions: 0
+Saves: 0
+Attempts at goal: 0/3
+Goals scored: 0
+Penalties missed: 0
+Penalties saved: 0
+
+Campos
+Passes: 6/11
+Personal challenges (attacking): 0/0
+Crosses: 0/0
+Player runs: 0/0
+Personal challenges won (defending): 0
+Interceptions: 2
+Saves: 4
+Attempts at goal: 0/0
+Goals scored: 0
+Penalties missed: 0
+Penalties saved: 0
+
+Sarabia
+Passes: 9/13
+Personal challenges (attacking): 3/7
+Crosses: 0/0
+Player runs: 2/4
+Personal challenges won (defending): 2
+Interceptions: 1
+Saves: 0
+Attempts at goal: 0/1
+Goals scored: 0
+Penalties missed: 0
+Penalties saved: 0
+
+Benitez
+Passes: 0/0
+Personal challenges (attacking): 4/4
+Crosses: 9/11
+Player runs: 0/0
+Personal challenges won (defending): 0
+Interceptions: 0
+Saves: 0
+Attempts at goal: 0/0
+Goals scored: 0
+Penalties missed: 0
+Penalties saved: 0
+
+Santa Cruz
+Passes: 0/0
+Personal challenges (attacking): 1/1
+Crosses: 5/6
+Player runs: 0/0
+Personal challenges won (defending): 0
+Interceptions: 0
+Saves: 0
+Attempts at goal: 0/0
+Goals scored: 0
+Penalties missed: 0
+Penalties saved: 0
+
+Kimura
+Passes: 3/4
+Personal challenges (attacking): 3/8
+Crosses: 3/3
+Player runs: 0/0
+Personal challenges won (defending): 1
+Interceptions: 0
+Saves: 0
+Attempts at goal: 0/2
+Goals scored: 0
+Penalties missed: 0
+Penalties saved: 0
+
+Takemoto
+Passes: 6/10
+Personal challenges (attacking): 4/5
+Crosses: 0/1
+Player runs: 3/4
+Personal challenges won (defending): 2
+Interceptions: 1
+Saves: 0
+Attempts at goal: 1/1
+Goals scored: 1
+Penalties missed: 0
+Penalties saved: 0
+
+Yoshida
+Passes: 2/3
+Personal challenges (attacking): 1/1
+Crosses: 2/3
+Player runs: 0/0
+Personal challenges won (defending): 2
+Interceptions: 0
+Saves: 0
+Attempts at goal: 0/0
+Goals scored: 0
+Penalties missed: 0
+Penalties saved: 0
+
+Shimizu
+Passes: 2/3
+Personal challenges (attacking): 0/3
+Crosses: 0/0
+Player runs: 0/0
+Personal challenges won (defending): 0
+Interceptions: 0
+Saves: 0
+Attempts at goal: 0/3
+Goals scored: 0
+Penalties missed: 0
+Penalties saved: 0
+
+Sogahata
+Passes: 10/11
+Personal challenges (attacking): 1/1
+Crosses: 1/1
+Player runs: 0/0
+Personal challenges won (defending): 4
+Interceptions: 0
+Saves: 0
+Attempts at goal: 0/0
+Goals scored: 0
+Penalties missed: 0
+Penalties saved: 0
+
+Endo
+Passes: 5/10
+Personal challenges (attacking): 4/4
+Crosses: 5/7
+Player runs: 1/2
+Personal challenges won (defending): 0
+Interceptions: 0
+Saves: 0
+Attempts at goal: 0/1
+Goals scored: 0
+Penalties missed: 0
+Penalties saved: 0
+
+Koshio
+Passes: 4/6
+Personal challenges (attacking): 2/2
+Crosses: 1/1
+Player runs: 3/4
+Personal challenges won (defending): 1
+Interceptions: 1
+Saves: 0
+Attempts at goal: 0/0
+Goals scored: 0
+Penalties missed: 0
+Penalties saved: 0
+
+Shimokawa
+Passes: 10/11
+Personal challenges (attacking): 0/0
+Crosses: 0/0
+Player runs: 0/0
+Personal challenges won (defending): 0
+Interceptions: 5
+Saves: 3
+Attempts at goal: 0/0
+Goals scored: 0
+Penalties missed: 0
+Penalties saved: 0
+
+Furuichi
+Passes: 0/0
+Personal challenges (attacking): 0/0
+Crosses: 0/0
+Player runs: 0/0
+Personal challenges won (defending): 0
+Interceptions: 0
+Saves: 0
+Attempts at goal: 0/3
+Goals scored: 0
+Penalties missed: 0
+Penalties saved: 0
+
+Ohta
+Passes: 1/2
+Personal challenges (attacking): 1/1
+Crosses: 1/3
+Player runs: 0/0
+Personal challenges won (defending): 0
+Interceptions: 0
+Saves: 0
+Attempts at goal: 0/0
+Goals scored: 0
+Penalties missed: 0
+Penalties saved: 0
+
+Komatsubara
+Passes: 4/10
+Personal challenges (attacking): 0/0
+Crosses: 0/0
+Player runs: 0/1
+Personal challenges won (defending): 3
+Interceptions: 0
+Saves: 0
+Attempts at goal: 0/0
+Goals scored: 0
+Penalties missed: 0
+Penalties saved: 0
+
